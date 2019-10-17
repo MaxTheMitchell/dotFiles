@@ -1,4 +1,4 @@
-alias cm='commit -m'
+alias cm='git commit -m'
 alias sc='source'
 alias ll='ls -al'
-alias pom='push origin master'
+alias pom='git push origin master'
