@@ -1,0 +1,4 @@
+alias cm='commit -m'
+alias sc='source'
+alias ll='ls -al'
+alias pom='push origin master'
