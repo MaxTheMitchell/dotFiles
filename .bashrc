@@ -1,4 +1,4 @@
-export GOPATH=$HOME/go
+export GOPATH=$HOME/programs/go
 PATH="$PATH:$GOPATH/bin"
 source .gitCompletion
 source .aliases
