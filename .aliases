@@ -2,3 +2,5 @@ alias cm='git commit -m'
 alias sc='source'
 alias ll='ls -al'
 alias pom='git push origin master'
+alias adcm='git add .
+git commit -m'
